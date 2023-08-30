@@ -1,0 +1,17 @@
+<UsersInfo>
+	<ID>0</ID>
+	<CreatedAt>0001-01-01T00:00:00Z</CreatedAt>
+	<UpdatedAt>0001-01-01T00:00:00Z</UpdatedAt>
+	<DeletedAt>
+		<Time>0001-01-01T00:00:00Z</Time>
+		<Valid>false</Valid>
+	</DeletedAt>
+	<corporate>0434235325</corporate>
+	<branchid>fs43</branchid>
+	<transactionkey>fa0328332</transactionkey>
+	<requestno>00097323214324300214</requestno>
+	<transactiontype>bdfsaf</transactiontype>
+	<requesttimestamp>gfd32gd</requesttimestamp>
+	<terminalid>093424254325</terminalid>
+	<address>Laguna</address>
+</UsersInfo>
